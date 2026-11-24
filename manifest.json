@@ -1,0 +1,21 @@
+{
+    "name": "FreshGuardAI",
+    "short_name": "FreshGuardAI",
+    "description": "Smart food freshness tracker and waste prevention assistant.",
+    "start_url": "./index.php",
+    "display": "standalone",
+    "background_color": "#1F6B4F",
+    "theme_color": "#1F6B4F",
+    "icons": [
+        {
+            "src": "assets/img/milk.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/tomatoes.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

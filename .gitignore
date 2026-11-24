@@ -1,0 +1,30 @@
+# Sensitive config (db.inc.php has only localhost/root so it's safe to include)
+*.env
+.env
+config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Laragon / Local server files
+*.log
+error_log
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# Node modules (if any)
+node_modules/
+
+# Composer (if any)
+vendor/
